@@ -15,6 +15,6 @@
     "magnet-uri": "^5.1.7",
     "parse-torrent": "^5.8.3",
     "restify": "^5.0.1",
-    "webtorrent": "^0.98.19"
+    "webtorrent": "^0.107.16"
   }
 }
